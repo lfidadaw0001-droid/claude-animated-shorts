@@ -1,0 +1,8 @@
+node_modules/
+dist/
+build/
+.cache/
+.remotion/
+audio/_cache/
+voice/voice_raw_48k.wav
+voice/voice_tight.wav
